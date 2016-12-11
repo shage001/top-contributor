@@ -1,3 +1,3 @@
 # top-contributor
 
-Experiment to see if github has limits on number of commits 
+Experiment to see if github has limits on frequency
